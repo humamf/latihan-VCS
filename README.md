@@ -14,7 +14,7 @@
 
 ``git --version``
 
-![git version](https://user-images.githubusercontent.com/72872663/96220256-9991da00-0fb2-11eb-9a1c-fb7a734613b9.JPG)
+![git version 2](https://user-images.githubusercontent.com/72872663/96331295-6e78ba80-1086-11eb-97b1-3736ca16c712.JPG)
 
 
 ### Menambahkan Global Config
